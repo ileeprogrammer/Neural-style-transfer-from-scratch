@@ -10,4 +10,6 @@ Mona Lisa in the art style of Van Gogh. Displayed below.
 
 ![my image](https://github.com/ileeprogrammer/Neural-style-transfer-from-scratch/blob/main/Output.jpg)
 
+Note: I have included conda environment requirements and jupyter notebook for demo.
+
 Reference: https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
